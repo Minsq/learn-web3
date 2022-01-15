@@ -1,2 +1,8 @@
 
 training/greetings/node_modules/
+
+private/geth/
+
+private/password.sec
+
+private/keystore/
